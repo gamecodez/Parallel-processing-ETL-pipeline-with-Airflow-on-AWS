@@ -1,0 +1,5 @@
+city,description,temperature_farenheit,feels_like_farenheit,minimun_temp_farenheit,maximum_temp_farenheit,pressure,humidity,wind_speed,time_of_record,sunrise_local_time,sunset_local_time,state,census_2020,land_area_sq_mile_2020
+Bangkok,moderate rain,84.092,96.692,84.092,84.092,1007,93,4.88,2023-09-28 18:20:58+00:00,2023-09-28 06:07:07+00:00,2023-09-28 18:10:27+00:00,None,5588222,605.7
+Bangkok,moderate rain,84.092,96.692,84.092,84.092,1007,93,4.88,2023-09-28 18:05:50+00:00,2023-09-28 06:07:07+00:00,2023-09-28 18:10:27+00:00,None,5588222,605.7
+Bangkok,moderate rain,84.092,96.692,84.092,84.092,1007,93,4.88,2023-09-28 17:52:22+00:00,2023-09-28 06:07:07+00:00,2023-09-28 18:10:27+00:00,None,5588222,605.7
+Bangkok,light rain,84.092,96.692,84.092,85.892,1007,93,4.88,2023-09-28 17:32:02+00:00,2023-09-28 06:07:07+00:00,2023-09-28 18:10:27+00:00,None,5588222,605.7
