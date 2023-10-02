@@ -21,8 +21,8 @@ check security groups -> edit inbound rule
 postgres anywhere ipv4 port 5432 source 0.0.0.0/0
 
 for more detail read below
-- https://www.postgresql.org/download/linux/ubuntu/
-- https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PostgreSQL.S3Import.html
+1. https://www.postgresql.org/download/linux/ubuntu/
+2. https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PostgreSQL.S3Import.html
 
 - psql -h rds-db-eris-yml-1.civit5x12ncs.ap-southeast-1.rds.amazonaws.com -p 5432 -U postgres -W
 
